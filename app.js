@@ -1,4 +1,4 @@
-let score = 490;
+let score = 0;
 
 function addScore() {
   score++;
